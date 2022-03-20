@@ -3,5 +3,5 @@
 }
 
 // Latest keys
-$config['aws_access_key'] = "AKIAVCG7MSHBVPPE6FGW";
-$config['aws_secret_key'] = "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";
+$config['aws_access_key'] = "";
+$config['aws_secret_key'] = "";
